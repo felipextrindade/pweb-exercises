@@ -1,5 +1,0 @@
-package br.fatec.exercicio7.conexao;
-
-public class ConectaHibernateDerby {
-
-}
