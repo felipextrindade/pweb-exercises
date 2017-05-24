@@ -517,3 +517,5 @@
 2017-05-24 20:12:15,257 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-05-24 20:12:15,257 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\0030481513011\workspace\Exercicio8\src\test\resources
 2017-05-24 20:12:15,257 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Exercicio8
+2017-05-24 20:12:15,257 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Exercicio8
+2017-05-24 20:12:15,261 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
